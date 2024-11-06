@@ -119,4 +119,4 @@ if all(key in st.session_state for key in ["forecast_df", "catalogue_df", "purch
                     
                     progress_bar.progress((step + 1) / total_steps)
                     
-            st.success("List Gudang Made!")
+            st.success("List Upload Made!")
